@@ -30,7 +30,7 @@ body {
 </style>
 	</head>
 	<body>
-		<p id="demo">0</p>
+		<p id="demo">1</p>
 		<button type="button" class="increment-btn">Click Me!</button>
 
 	<script>
@@ -41,6 +41,8 @@ body {
 		if(localStorage.getItem("counter")!= null){
 			counter = Number(localStorage.getItem("counter");
 			document.getElementById("demo").innterHTML = counter;
+		}else{
+			localStorage.setItem("counter",'0');
 		}
 	}
 
@@ -58,7 +60,7 @@ body {
 			demo_id.innerHTML = value.toString();
 			demo_id.style.fontSize = "10vw";
 			demo_id.style.color = "black";
-			document.getElementById("demo").innerHTML = counter;
+			document.getElementById("demo").innerHTML = count;
 		},false);
 	</script>
 			
