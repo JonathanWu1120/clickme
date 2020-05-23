@@ -41,14 +41,15 @@ body {
 		if(localStorage.getItem("counter")!= null){
 			counter = Number(localStorage.getItem("counter");
 			document.getElementById("demo").innterHTML = counter;
+		}
 	}
 
 
-		var counter = 0;
+		var count = 0;
 		$button.addEventListener('click',function(){
 			var demo_id = Number(localStorage.getItem("counter"));
-			console.log(counter);
-			counter += 1;
+			console.log(count);
+			count += 1;
 			localStorage.setItem("counter",counter);
 			var value = parseInt(demo_id.value,10);
 			value = isNaN(value) ? 0: value;
