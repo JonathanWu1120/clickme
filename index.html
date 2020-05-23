@@ -30,7 +30,8 @@ body {
 </style>
 	</head>
 	<body>
-		<p type="text" class="counter" value ="0"/>
+		<input type="text" class="counter" value ="0"/>
+		<p id="demo">Hello</p>
 		<button type="button" class="increment-btn">Click Me!</button>
 
 	<script>
@@ -38,6 +39,11 @@ body {
 		var $counter = document.querySelector('.counter');
 		$button.addEventListener('click',function(){
 			$counter.value = parseInt($counter.value)+1;
+			var demo_id = document.getElementById("demo");
+			var value = parseInt(demo_id.value,10);
+			value = isNaN(value) ? 0: value;
+			value++;
+			demo_id.value = value;
 		},false);
 	</script>
 			
