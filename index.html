@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-<style>
+		<style>
 button {
 	border: none;
 	color: white;
@@ -27,46 +27,48 @@ button:hover{
 body {
 	background-color: gray;
 }
-</style>
+		</style>
 	</head>
 	<body onload="load()">
 		<p id="demo">50</p>
 		<button type="button" class="increment-btn">Click Me!</button>
 
-	<script>
-    function load(){
-    	if(localStorage.getItem("count")!= null){
-        	var demo_id = document.getElementById("demo");
-        	var value = Number(localStorage.getItem("count"));
-            demo_id.value = value;
-            demo_id.innerHTML = value.toString();
-			demo_id.style.fontSize = "10vw";
-			demo_id.style.color = "black";
-		}else{
-        	var demo_id = document.getElementById("demo");
-            localStorage.setItem("count","0");
-            demo_id.value = value;
-            demo_id.innerHTML = value.toString();
-			demo_id.style.fontSize = "10vw";
-			demo_id.style.color = "black";
-		}
-	}
-    
-    	function inc(){
-        	var demo_id = document.getElementById("demo");
-			var value = parseInt(demo_id.value,10);
-			value = isNaN(value) ? 0: value;
-			value++;
-			demo_id.value = value;
-			demo_id.innerHTML = value.toString();
-            demo_id.style.fontSize = "10vw";
-			demo_id.style.color = "black";
-            localStorage.setItem("count",value);
-        }
-		var $button = document.querySelector('.increment-btn');
-		$button.addEventListener('click',inc,false);
-	</script>
-			
+		<script>
+			function load(){
+				if(localStorage.getItem("count")!= null){
+					var demo_id = document.getElementById("demo");
+					var value = Number(localStorage.getItem("count"));
+					demo_id.value = value;
+					demo_id.innerHTML = value.toString();
+					demo_id.style.fontSize = "10vw";
+					demo_id.style.color = "black";
+				}else{
+					var demo_id = document.getElementById("demo");
+					localStorage.setItem("count","0");
+					demo_id.value = value;
+					demo_id.innerHTML = value.toString();
+					demo_id.style.fontSize = "10vw";
+					demo_id.style.color = "black";
+				}
+			}
+
+			function inc(){
+				var demo_id = document.getElementById("demo");
+				var value = parseInt(demo_id.value,10);
+				value = isNaN(value) ? 0: value;
+				value++;
+				demo_id.value = value;
+				demo_id.innerHTML = value.toString();
+				demo_id.style.fontSize = "10vw";
+				demo_id.style.color = "black";
+				localStorage.setItem("count",value);
+			}
+
+			var $button = document.querySelector('.increment-btn');
+			$button.addEventListener('click',inc,false);
+
+		</script>
+
 	</body>
 
 </html>
