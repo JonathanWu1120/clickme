@@ -30,14 +30,15 @@ body {
 </style>
 	</head>
 	<body>
-		<input type="text" id="number" value ="0"/>
-		<input type="button" onclick="clicked()" value="Click me"/>
+		<input type="text" class="counter" value ="0"/>
+		<button type="button" class="increment-btn">Click Me!</button>
 
 	<script>
-		var x = 0;
-		function clicked(){
-			document.getElementById('number') = ++i;
-		}
+		var $button = document.querySelector('.increment-btn');
+		var $counter = document.querySelector('.counter');
+		$button.addEventListener('click',function(){
+			$counter.value = parseInt($counter.value)+1;
+		},false);
 	</script>
 			
 	</body>
