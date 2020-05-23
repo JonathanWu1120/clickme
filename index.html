@@ -6,7 +6,7 @@
 button {
 	border: none;
 	color: white;
-	padding; 30vw 30vw;
+	padding: 25vw 25vw;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
@@ -29,40 +29,42 @@ body {
 }
 </style>
 	</head>
-	<body>
-		<p id="demo">1</p>
+	<body onload="load()">
+		<p id="demo">50</p>
 		<button type="button" class="increment-btn">Click Me!</button>
 
 	<script>
-		var $button = document.querySelector('.increment-btn');
-		var $counter = document.querySelector('.counter');
-
-	function load(){
-		if(localStorage.getItem("counter")!= null){
-			counter = Number(localStorage.getItem("counter");
-			document.getElementById("demo").innterHTML = counter;
+    function load(){
+    	if(localStorage.getItem("count")!= null){
+        	var demo_id = document.getElementById("demo");
+        	var value = Number(localStorage.getItem("count"));
+            demo_id.value = value;
+            demo_id.innerHTML = value.toString();
+			demo_id.style.fontSize = "10vw";
+			demo_id.style.color = "black";
 		}else{
-			localStorage.setItem("counter",'0');
+        	var demo_id = document.getElementById("demo");
+            localStorage.setItem("count","0");
+            demo_id.value = value;
+            demo_id.innerHTML = value.toString();
+			demo_id.style.fontSize = "10vw";
+			demo_id.style.color = "black";
 		}
 	}
-	load();
-
-		var count = 0;
-		$button.addEventListener('click',function(){
-			var demo_id = Number(localStorage.getItem("counter"));
-			count = Number(localStorage.getItem("counter"));
-			console.log(count);
-			count += 1;
-			localStorage.setItem("counter",counter);
+    
+    	function inc(){
+        	var demo_id = document.getElementById("demo");
 			var value = parseInt(demo_id.value,10);
 			value = isNaN(value) ? 0: value;
 			value++;
 			demo_id.value = value;
 			demo_id.innerHTML = value.toString();
-			demo_id.style.fontSize = "10vw";
+            demo_id.style.fontSize = "10vw";
 			demo_id.style.color = "black";
-			document.getElementById("demo").innerHTML = count;
-		},false);
+            localStorage.setItem("count",value);
+        }
+		var $button = document.querySelector('.increment-btn');
+		$button.addEventListener('click',inc,false);
 	</script>
 			
 	</body>
