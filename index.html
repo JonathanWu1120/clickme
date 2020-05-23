@@ -45,11 +45,12 @@ body {
 			localStorage.setItem("counter",'0');
 		}
 	}
-
+	load();
 
 		var count = 0;
 		$button.addEventListener('click',function(){
 			var demo_id = Number(localStorage.getItem("counter"));
+			count = Number(localStorage.getItem("counter"));
 			console.log(count);
 			count += 1;
 			localStorage.setItem("counter",counter);
