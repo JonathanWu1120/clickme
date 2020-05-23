@@ -31,14 +31,12 @@ body {
 	</head>
 	<body>
 		<input type="text" id="number" value ="0"/>
-		<input type="button" onclick="clicked()" value="Increment Value"/>
+		<input type="button" onclick="clicked()" value="Click me"/>
 
 	<script>
+		var x = 0;
 		function clicked(){
-			var clicks = parseInt(document.getElementById('number').value, 10);
-			value = isNaN(value) ? 0: value;
-			value++;
-			document.getElementById('number').value = value;
+			document.getElementById('number') = ++i;
 		}
 	</script>
 			
