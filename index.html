@@ -30,7 +30,17 @@ body {
 </style>
 	</head>
 	<body>
-		<button type="button">Click Me!</button>
+		<input type="text" id="number" value ="0"/>
+		<button type="button" onclick="clicked()">Click Me!</button>
+
+	<script>
+		function clicked(){
+			var clicks = parseInt(document.getElementById('number').value, 10);
+			value = isNaN(value) ? 0: value;
+			value++;
+			document.getElementById('number').value = value;
+		}
+			
 	</body>
 
 </html>
