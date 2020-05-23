@@ -24,25 +24,19 @@ button:hover{
 	color: white;
 }
 
-demo {
-	font-size = 10vw;
-	color = black;
-}
-
 body {
 	background-color: gray;
 }
 </style>
 	</head>
 	<body>
-		<p id="demo">Hello</p>
+		<p id="demo">0</p>
 		<button type="button" class="increment-btn">Click Me!</button>
 
 	<script>
 		var $button = document.querySelector('.increment-btn');
 		var $counter = document.querySelector('.counter');
 		$button.addEventListener('click',function(){
-			$counter.value = parseInt($counter.value)+1;
 			var demo_id = document.getElementById("demo");
 			var value = parseInt(demo_id.value,10);
 			value = isNaN(value) ? 0: value;
