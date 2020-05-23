@@ -36,8 +36,20 @@ body {
 	<script>
 		var $button = document.querySelector('.increment-btn');
 		var $counter = document.querySelector('.counter');
+
+	function load(){
+		if(localStorage.getItem("counter")!= null){
+			counter = Number(localStorage.getItem("counter");
+			document.getElementById("demo").innterHTML = counter;
+	}
+
+
+		var counter = 0;
 		$button.addEventListener('click',function(){
-			var demo_id = document.getElementById("demo");
+			var demo_id = Number(localStorage.getItem("counter"));
+			console.log(counter);
+			counter += 1;
+			localStorage.setItem("counter",counter);
 			var value = parseInt(demo_id.value,10);
 			value = isNaN(value) ? 0: value;
 			value++;
@@ -45,6 +57,7 @@ body {
 			demo_id.innerHTML = value.toString();
 			demo_id.style.fontSize = "10vw";
 			demo_id.style.color = "black";
+			document.getElementById("demo").innerHTML = counter;
 		},false);
 	</script>
 			
