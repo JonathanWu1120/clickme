@@ -1,2 +1,17 @@
-
+{
+	"name": "jonathan-wu-clickme",
+	"version": "0.1.0",
+	"description": "Click the button and the number will go up!",
+	"engines":{
+		"node":"12.x"
+	},
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/JonathanWu1120/clickme"
+	},
+	"keywords":[
+		"node",
+		"heroku"
+	]
+}
 
