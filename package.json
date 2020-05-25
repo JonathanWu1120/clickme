@@ -1,17 +1,25 @@
 {
-	"name": "jonathan-wu-clickme",
-	"version": "0.1.0",
-	"description": "Click the button and the number will go up!",
-	"engines":{
-		"node":"12.x"
-	},
-	"repository":{
-		"type":"git",
-		"url":"https://github.com/JonathanWu1120/clickme"
-	},
-	"keywords":[
-		"node",
-		"heroku"
-	]
+  "name": "clickme",
+  "version": "1.0.0",
+  "description": "click the button",
+  "main": "script.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanWu1120/clickme.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jonathan Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanWu1120/clickme/issues"
+  },
+  "homepage": "https://github.com/JonathanWu1120/clickme#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
-

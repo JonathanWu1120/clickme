@@ -1,3 +1,14 @@
+var express = require('express');
+var app = express();
+
+app.get('/',function(req,res){
+	res.send('Hello World');
+});
+
+app.listen(3000,function(){
+	console.log("Listening on port 3000");
+})
+/*
 function load(){
 	if(localStorage.getItem("count")!= null){
 		var demo_id = document.getElementById("demo");
