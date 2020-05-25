@@ -5,7 +5,7 @@ app.get('/',function(req,res){
 	res.send('Hello World');
 });
 
-
+/*
 function load(){
 	if(localStorage.getItem("count")!= null){
 		var demo_id = document.getElementById("demo");
