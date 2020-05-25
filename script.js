@@ -1,4 +1,4 @@
-/*function load(){
+function load(){
 	if(localStorage.getItem("count")!= null){
 		var demo_id = document.getElementById("demo");
 		var value = Number(localStorage.getItem("count"));
@@ -36,7 +36,7 @@ var unique = require('uniq');
 var data = [1, 2, 2, 3, 4, 5, 5, 5, 6];
 
 console.log(unique(data));
-
+/*
 const MongoClient = require('mongodb').MongoClient;
 const uri = "mongodb+srv://jonathanwu1120:<password>@cluster0-rnb3s.mongodb.net/test?retryWrites=true&w=majority";
 const client = new MongoClient(uri, { useNewUrlParser: true });
