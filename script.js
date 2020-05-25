@@ -30,7 +30,7 @@ function inc(){
 
 var $button = document.querySelector('.increment-btn');
 $button.addEventListener('click',inc,false);
-*/
+
 var unique = require('uniq');
 
 var data = [1, 2, 2, 3, 4, 5, 5, 5, 6];
@@ -46,3 +46,5 @@ client.connect(err => {
   console.log("Connected");
   client.close();
 });
+
+*/

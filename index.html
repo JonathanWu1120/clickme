@@ -29,10 +29,7 @@ body {
 }
 		</style>
 	</head>
-	<!--
 	<body onload="load()">
--->
-	<body>
 		<p id="demo">50</p>
 		<button type="button" class="increment-btn">Click Me!</button>
 
@@ -70,6 +67,7 @@ function inc(){
 
 var $button = document.querySelector('.increment-btn');
 $button.addEventListener('click',inc,false);
+/*
 
 			const MongoClient = require('mongodb').MongoClient;
 const uri = "mongodb+srv://jonathanwu1120:<password>@cluster0-rnb3s.mongodb.net/test?retryWrites=true&w=majority";
@@ -80,6 +78,7 @@ client.connect(err => {
   console.log("Connected");
   client.close();
 });
+*/
 
 		</script>
 
