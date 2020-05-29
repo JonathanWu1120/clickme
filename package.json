@@ -1,25 +1,15 @@
 {
-  "name": "clickme",
+  "name": "click",
   "version": "1.0.0",
-  "description": "click the button",
-  "main": "script.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "run"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JonathanWu1120/clickme.git"
-  },
-  "keywords": [
-    "node"
-  ],
-  "author": "Jonathan Wu",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JonathanWu1120/clickme/issues"
-  },
-  "homepage": "https://github.com/JonathanWu1120/clickme#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongodb": "^3.5.8"
   }
 }
