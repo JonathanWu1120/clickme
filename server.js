@@ -11,7 +11,7 @@ app.use(express.static('public'));
 
 let db;
 const url =  "mongodb+srv://jonathanwu1120:v3572pg767i@cluster0-rnb3s.mongodb.net/test?retryWrites=true&w=majority";
-
+const port = process.env.PORT || 3000
 
 MongoClient.connect(url, { useUnifiedTopology: true }, (err, client) => {
   if (err) {
@@ -19,8 +19,8 @@ MongoClient.connect(url, { useUnifiedTopology: true }, (err, client) => {
   }
   db = client.db("testDatabase");
   // start the express web server listening on 8080
-  app.listen(8080, () => {
-    console.log("listening on 8080");
+  app.listen(port, () => {
+    console.log("listening on 3000");
   });
 });
 // serve the homepage
