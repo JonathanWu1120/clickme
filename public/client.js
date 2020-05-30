@@ -24,7 +24,7 @@ setInterval(function() {
       throw new Error('Request failed.');
     })
     .then(function(data) {
-      document.getElementById('counter').innerHTML = `Clicked ${data.length} times! How high can it get?`;
+      document.getElementById('counter').innerHTML = `Clicked ${data.length} times!`;
     })
     .catch(function(error) {
       console.log(error);
