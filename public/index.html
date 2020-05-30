@@ -2,10 +2,35 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <style>
+    myButton {
+	border: none;
+	color: white;
+	padding: 25vw 25vw;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 10vw;
+	margin: 1vw 1vw;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	background-color: white;
+	color: black;
+	border: 1vw solid #4CAF50;
+}
+
+myButton:hover{
+	background-color: #4CAF50;
+	color: white;
+}
+body {
+	background-color: gray;
+}
+</style>
   </head>
   <body>
-    <h1>Node + Express + MongoDb example</h1>
-    <p id="counter">Loading button click data.</p>
+    <h1>Global Clicker!</h1>
+    <p id="counter">Loading click data.</p>
     <button id="myButton">Click me!</button>
   </body>
   <script src="client.js"></script>
