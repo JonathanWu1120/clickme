@@ -1,0 +1,3131 @@
+[
+  {
+    "firstname": "Wooten ",
+    "lastname": "Cook",
+    "email": "wootencook@eargo.com",
+    "location": [
+      "Bartlett Place",
+      "Davenport",
+      "Maine"
+    ],
+    "phone": "(823) 516-2708",
+    "address": {
+      "communication": "Channel Avenue, Rutherford, Indiana",
+      "permanent": "Brazil"
+    },
+    "marks": {
+      "english": 21,
+      "science": 97,
+      "computers": 63,
+      "hardwar": 82
+    }
+  },
+  {
+    "firstname": "Shannon ",
+    "lastname": "Cobb",
+    "email": "shannoncobb@eargo.com",
+    "location": [
+      "Suydam Street",
+      "Gulf",
+      "Pennsylvania"
+    ],
+    "phone": "(932) 496-3408",
+    "address": {
+      "communication": "Orange Street, Reinerton, Arizona",
+      "permanent": "Romania"
+    },
+    "marks": {
+      "english": 30,
+      "science": 27,
+      "computers": 55,
+      "hardwar": 11
+    }
+  },
+  {
+    "firstname": "Jerry ",
+    "lastname": "May",
+    "email": "jerrymay@eargo.com",
+    "location": [
+      "Nixon Court",
+      "Vienna",
+      "Colorado"
+    ],
+    "phone": "(999) 560-3640",
+    "address": {
+      "communication": "Dwight Street, Toftrees, American Samoa",
+      "permanent": "French Southern Territories"
+    },
+    "marks": {
+      "english": 39,
+      "science": 4,
+      "computers": 66,
+      "hardwar": 21
+    }
+  },
+  {
+    "firstname": "Howe ",
+    "lastname": "Dorsey",
+    "email": "howedorsey@eargo.com",
+    "location": [
+      "Polhemus Place",
+      "Kerby",
+      "Illinois"
+    ],
+    "phone": "(839) 445-2258",
+    "address": {
+      "communication": "Kings Place, Cleary, Northern Mariana Islands",
+      "permanent": "Sao Tome and Principe"
+    },
+    "marks": {
+      "english": 27,
+      "science": 10,
+      "computers": 90,
+      "hardwar": 10
+    }
+  },
+  {
+    "firstname": "Matthews ",
+    "lastname": "Dejesus",
+    "email": "matthewsdejesus@eargo.com",
+    "location": [
+      "Vanderbilt Avenue",
+      "Shaft",
+      "New York"
+    ],
+    "phone": "(963) 549-2235",
+    "address": {
+      "communication": "Montauk Avenue, Indio, California",
+      "permanent": "Vanuatu"
+    },
+    "marks": {
+      "english": 49,
+      "science": 83,
+      "computers": 54,
+      "hardwar": 37
+    }
+  },
+  {
+    "firstname": "Fuller ",
+    "lastname": "Bond",
+    "email": "fullerbond@eargo.com",
+    "location": [
+      "Seba Avenue",
+      "Dargan",
+      "Virginia"
+    ],
+    "phone": "(801) 403-3289",
+    "address": {
+      "communication": "Ivan Court, Mulino, Kentucky",
+      "permanent": "New Caledonia"
+    },
+    "marks": {
+      "english": 3,
+      "science": 96,
+      "computers": 59,
+      "hardwar": 17
+    }
+  },
+  {
+    "firstname": "Barnes ",
+    "lastname": "Foley",
+    "email": "barnesfoley@eargo.com",
+    "location": [
+      "Clara Street",
+      "Sultana",
+      "Idaho"
+    ],
+    "phone": "(995) 492-3682",
+    "address": {
+      "communication": "Roder Avenue, Wacissa, South Dakota",
+      "permanent": "French Polynesia"
+    },
+    "marks": {
+      "english": 42,
+      "science": 65,
+      "computers": 44,
+      "hardwar": 40
+    }
+  },
+  {
+    "firstname": "Johnston ",
+    "lastname": "Ramsey",
+    "email": "johnstonramsey@eargo.com",
+    "location": [
+      "Hazel Court",
+      "Lutsen",
+      "Nebraska"
+    ],
+    "phone": "(944) 565-2517",
+    "address": {
+      "communication": "Randolph Street, Walker, Michigan",
+      "permanent": "Lesotho"
+    },
+    "marks": {
+      "english": 37,
+      "science": 63,
+      "computers": 5,
+      "hardwar": 89
+    }
+  },
+  {
+    "firstname": "Rosario ",
+    "lastname": "Aguilar",
+    "email": "rosarioaguilar@eargo.com",
+    "location": [
+      "Hunts Lane",
+      "Rosburg",
+      "Delaware"
+    ],
+    "phone": "(914) 527-3851",
+    "address": {
+      "communication": "Bogart Street, Coalmont, West Virginia",
+      "permanent": "Panama"
+    },
+    "marks": {
+      "english": 35,
+      "science": 84,
+      "computers": 39,
+      "hardwar": 25
+    }
+  },
+  {
+    "firstname": "Frederick ",
+    "lastname": "Vincent",
+    "email": "frederickvincent@eargo.com",
+    "location": [
+      "Tompkins Avenue",
+      "Fulford",
+      "Missouri"
+    ],
+    "phone": "(803) 406-2679",
+    "address": {
+      "communication": "Alice Court, Snelling, Alaska",
+      "permanent": "Syria"
+    },
+    "marks": {
+      "english": 79,
+      "science": 5,
+      "computers": 35,
+      "hardwar": 95
+    }
+  },
+  {
+    "firstname": "Clemons ",
+    "lastname": "Chapman",
+    "email": "clemonschapman@eargo.com",
+    "location": [
+      "Willoughby Street",
+      "Bagtown",
+      "Ohio"
+    ],
+    "phone": "(931) 438-2080",
+    "address": {
+      "communication": "Gaylord Drive, Baden, New Mexico",
+      "permanent": "Georgia"
+    },
+    "marks": {
+      "english": 38,
+      "science": 15,
+      "computers": 99,
+      "hardwar": 61
+    }
+  },
+  {
+    "firstname": "Solis ",
+    "lastname": "Vargas",
+    "email": "solisvargas@eargo.com",
+    "location": [
+      "Thames Street",
+      "Deputy",
+      "Nevada"
+    ],
+    "phone": "(817) 481-2146",
+    "address": {
+      "communication": "Jay Street, Falconaire, Puerto Rico",
+      "permanent": "Antarctica"
+    },
+    "marks": {
+      "english": 100,
+      "science": 71,
+      "computers": 94,
+      "hardwar": 35
+    }
+  },
+  {
+    "firstname": "Stephenson ",
+    "lastname": "Head",
+    "email": "stephensonhead@eargo.com",
+    "location": [
+      "Front Street",
+      "Orviston",
+      "Minnesota"
+    ],
+    "phone": "(941) 513-2347",
+    "address": {
+      "communication": "Columbus Place, Barclay, Hawaii",
+      "permanent": "France"
+    },
+    "marks": {
+      "english": 40,
+      "science": 12,
+      "computers": 91,
+      "hardwar": 12
+    }
+  },
+  {
+    "firstname": "Jeannine ",
+    "lastname": "Myers",
+    "email": "jeanninemyers@eargo.com",
+    "location": [
+      "Matthews Court",
+      "Mulberry",
+      "Federated States Of Micronesia"
+    ],
+    "phone": "(873) 517-2718",
+    "address": {
+      "communication": "Ide Court, Cumberland, Wisconsin",
+      "permanent": "Falkland Islands (Malvinas)"
+    },
+    "marks": {
+      "english": 30,
+      "science": 4,
+      "computers": 16,
+      "hardwar": 5
+    }
+  },
+  {
+    "firstname": "Melissa ",
+    "lastname": "Harrington",
+    "email": "melissaharrington@eargo.com",
+    "location": [
+      "Wythe Place",
+      "Eggertsville",
+      "Mississippi"
+    ],
+    "phone": "(817) 540-3435",
+    "address": {
+      "communication": "Crescent Street, Sexton, Texas",
+      "permanent": "Canada"
+    },
+    "marks": {
+      "english": 84,
+      "science": 96,
+      "computers": 72,
+      "hardwar": 75
+    }
+  },
+  {
+    "firstname": "Doreen ",
+    "lastname": "Barker",
+    "email": "doreenbarker@eargo.com",
+    "location": [
+      "King Street",
+      "Bakersville",
+      "North Dakota"
+    ],
+    "phone": "(867) 449-3417",
+    "address": {
+      "communication": "Hawthorne Street, Winston, Utah",
+      "permanent": "Yemen"
+    },
+    "marks": {
+      "english": 83,
+      "science": 99,
+      "computers": 18,
+      "hardwar": 77
+    }
+  },
+  {
+    "firstname": "Doris ",
+    "lastname": "Lee",
+    "email": "dorislee@eargo.com",
+    "location": [
+      "Denton Place",
+      "Oley",
+      "Connecticut"
+    ],
+    "phone": "(858) 457-2192",
+    "address": {
+      "communication": "Hanson Place, Sandston, Georgia",
+      "permanent": "Guatemala"
+    },
+    "marks": {
+      "english": 60,
+      "science": 62,
+      "computers": 14,
+      "hardwar": 26
+    }
+  },
+  {
+    "firstname": "Larson ",
+    "lastname": "Mosley",
+    "email": "larsonmosley@eargo.com",
+    "location": [
+      "Roebling Street",
+      "Flintville",
+      "New Hampshire"
+    ],
+    "phone": "(876) 525-2522",
+    "address": {
+      "communication": "Borinquen Pl, Barstow, District Of Columbia",
+      "permanent": "China"
+    },
+    "marks": {
+      "english": 77,
+      "science": 37,
+      "computers": 45,
+      "hardwar": 22
+    }
+  },
+  {
+    "firstname": "Petersen ",
+    "lastname": "Humphrey",
+    "email": "petersenhumphrey@eargo.com",
+    "location": [
+      "Visitation Place",
+      "Gracey",
+      "Washington"
+    ],
+    "phone": "(976) 465-2746",
+    "address": {
+      "communication": "Russell Street, Lowell, North Carolina",
+      "permanent": "Korea (South)"
+    },
+    "marks": {
+      "english": 55,
+      "science": 76,
+      "computers": 33,
+      "hardwar": 97
+    }
+  },
+  {
+    "firstname": "Farmer ",
+    "lastname": "Norton",
+    "email": "farmernorton@eargo.com",
+    "location": [
+      "Sandford Street",
+      "Vowinckel",
+      "Arkansas"
+    ],
+    "phone": "(979) 475-2013",
+    "address": {
+      "communication": "Conduit Boulevard, Jeff, Palau",
+      "permanent": "Saint Vincent and The Grenadines"
+    },
+    "marks": {
+      "english": 75,
+      "science": 8,
+      "computers": 2,
+      "hardwar": 57
+    }
+  },
+  {
+    "firstname": "James ",
+    "lastname": "Kinney",
+    "email": "jameskinney@eargo.com",
+    "location": [
+      "Vine Street",
+      "Strykersville",
+      "Louisiana"
+    ],
+    "phone": "(978) 465-2048",
+    "address": {
+      "communication": "Canda Avenue, Brenton, Oklahoma",
+      "permanent": "Nicaragua"
+    },
+    "marks": {
+      "english": 13,
+      "science": 8,
+      "computers": 2,
+      "hardwar": 17
+    }
+  },
+  {
+    "firstname": "Elvia ",
+    "lastname": "Holder",
+    "email": "elviaholder@eargo.com",
+    "location": [
+      "Gotham Avenue",
+      "Riner",
+      "New Jersey"
+    ],
+    "phone": "(825) 410-2557",
+    "address": {
+      "communication": "Temple Court, Shawmut, Marshall Islands",
+      "permanent": "Mauritania"
+    },
+    "marks": {
+      "english": 13,
+      "science": 76,
+      "computers": 52,
+      "hardwar": 23
+    }
+  },
+  {
+    "firstname": "Josephine ",
+    "lastname": "Byers",
+    "email": "josephinebyers@eargo.com",
+    "location": [
+      "Garden Place",
+      "Mansfield",
+      "Virgin Islands"
+    ],
+    "phone": "(812) 591-3560",
+    "address": {
+      "communication": "Cumberland Walk, Mappsville, Florida",
+      "permanent": "Ukraine"
+    },
+    "marks": {
+      "english": 99,
+      "science": 92,
+      "computers": 70,
+      "hardwar": 40
+    }
+  },
+  {
+    "firstname": "Celia ",
+    "lastname": "Manning",
+    "email": "celiamanning@eargo.com",
+    "location": [
+      "Cadman Plaza",
+      "Greenbush",
+      "Wyoming"
+    ],
+    "phone": "(858) 576-3595",
+    "address": {
+      "communication": "Knight Court, Smock, Oregon",
+      "permanent": "Djibouti"
+    },
+    "marks": {
+      "english": 97,
+      "science": 43,
+      "computers": 7,
+      "hardwar": 80
+    }
+  },
+  {
+    "firstname": "Pam ",
+    "lastname": "Terrell",
+    "email": "pamterrell@eargo.com",
+    "location": [
+      "Kensington Walk",
+      "Carlos",
+      "Iowa"
+    ],
+    "phone": "(831) 587-3586",
+    "address": {
+      "communication": "Kermit Place, Bawcomville, Tennessee",
+      "permanent": "Angola"
+    },
+    "marks": {
+      "english": 82,
+      "science": 60,
+      "computers": 52,
+      "hardwar": 32
+    }
+  },
+  {
+    "firstname": "Bridgette ",
+    "lastname": "Bernard",
+    "email": "bridgettebernard@eargo.com",
+    "location": [
+      "Havens Place",
+      "Suitland",
+      "Maryland"
+    ],
+    "phone": "(958) 580-2429",
+    "address": {
+      "communication": "Tapscott Avenue, Detroit, Guam",
+      "permanent": "Tokelau"
+    },
+    "marks": {
+      "english": 58,
+      "science": 89,
+      "computers": 15,
+      "hardwar": 94
+    }
+  },
+  {
+    "firstname": "Sherrie ",
+    "lastname": "Mooney",
+    "email": "sherriemooney@eargo.com",
+    "location": [
+      "Little Street",
+      "Broadlands",
+      "Alabama"
+    ],
+    "phone": "(923) 523-3607",
+    "address": {
+      "communication": "Roosevelt Place, Elliott, South Carolina",
+      "permanent": "Zaire"
+    },
+    "marks": {
+      "english": 14,
+      "science": 76,
+      "computers": 42,
+      "hardwar": 82
+    }
+  },
+  {
+    "firstname": "Emerson ",
+    "lastname": "Welch",
+    "email": "emersonwelch@eargo.com",
+    "location": [
+      "Hutchinson Court",
+      "Leyner",
+      "Rhode Island"
+    ],
+    "phone": "(828) 556-2024",
+    "address": {
+      "communication": "Marconi Place, Chestnut, Kansas",
+      "permanent": "Dominica"
+    },
+    "marks": {
+      "english": 48,
+      "science": 31,
+      "computers": 14,
+      "hardwar": 47
+    }
+  },
+  {
+    "firstname": "Tara ",
+    "lastname": "Tate",
+    "email": "taratate@eargo.com",
+    "location": [
+      "Woodpoint Road",
+      "Cressey",
+      "Montana"
+    ],
+    "phone": "(878) 550-2823",
+    "address": {
+      "communication": "Clinton Street, Elrama, Vermont",
+      "permanent": "Tunisia"
+    },
+    "marks": {
+      "english": 9,
+      "science": 66,
+      "computers": 28,
+      "hardwar": 82
+    }
+  },
+  {
+    "firstname": "Kent ",
+    "lastname": "Rosales",
+    "email": "kentrosales@eargo.com",
+    "location": [
+      "Bedell Lane",
+      "Mooresburg",
+      "Maine"
+    ],
+    "phone": "(874) 498-3543",
+    "address": {
+      "communication": "Emmons Avenue, Grenelefe, Indiana",
+      "permanent": "Zambia"
+    },
+    "marks": {
+      "english": 17,
+      "science": 29,
+      "computers": 71,
+      "hardwar": 49
+    }
+  },
+  {
+    "firstname": "Iris ",
+    "lastname": "Casey",
+    "email": "iriscasey@eargo.com",
+    "location": [
+      "Blake Avenue",
+      "Bennett",
+      "Pennsylvania"
+    ],
+    "phone": "(863) 516-3800",
+    "address": {
+      "communication": "Nassau Avenue, Coleville, Arizona",
+      "permanent": "Moldova"
+    },
+    "marks": {
+      "english": 68,
+      "science": 57,
+      "computers": 82,
+      "hardwar": 62
+    }
+  },
+  {
+    "firstname": "Chrystal ",
+    "lastname": "Talley",
+    "email": "chrystaltalley@eargo.com",
+    "location": [
+      "Kingsway Place",
+      "Bloomington",
+      "Colorado"
+    ],
+    "phone": "(812) 536-2418",
+    "address": {
+      "communication": "Pierrepont Street, Williamson, American Samoa",
+      "permanent": "India"
+    },
+    "marks": {
+      "english": 50,
+      "science": 96,
+      "computers": 99,
+      "hardwar": 75
+    }
+  },
+  {
+    "firstname": "Shields ",
+    "lastname": "Bishop",
+    "email": "shieldsbishop@eargo.com",
+    "location": [
+      "Pleasant Place",
+      "Iberia",
+      "Illinois"
+    ],
+    "phone": "(880) 541-3210",
+    "address": {
+      "communication": "Lefferts Avenue, Brewster, Northern Mariana Islands",
+      "permanent": "Tajikistan"
+    },
+    "marks": {
+      "english": 53,
+      "science": 77,
+      "computers": 48,
+      "hardwar": 64
+    }
+  },
+  {
+    "firstname": "Lora ",
+    "lastname": "Fitzpatrick",
+    "email": "lorafitzpatrick@eargo.com",
+    "location": [
+      "Tudor Terrace",
+      "Escondida",
+      "New York"
+    ],
+    "phone": "(892) 542-3294",
+    "address": {
+      "communication": "Schaefer Street, Datil, California",
+      "permanent": "Tanzania"
+    },
+    "marks": {
+      "english": 49,
+      "science": 100,
+      "computers": 22,
+      "hardwar": 63
+    }
+  },
+  {
+    "firstname": "Elnora ",
+    "lastname": "Blackwell",
+    "email": "elnorablackwell@eargo.com",
+    "location": [
+      "Sullivan Street",
+      "Limestone",
+      "Virginia"
+    ],
+    "phone": "(911) 491-3953",
+    "address": {
+      "communication": "Ludlam Place, Allensworth, Kentucky",
+      "permanent": "Palau"
+    },
+    "marks": {
+      "english": 48,
+      "science": 36,
+      "computers": 24,
+      "hardwar": 30
+    }
+  },
+  {
+    "firstname": "Espinoza ",
+    "lastname": "Moreno",
+    "email": "espinozamoreno@eargo.com",
+    "location": [
+      "Murdock Court",
+      "Bangor",
+      "Idaho"
+    ],
+    "phone": "(809) 457-3194",
+    "address": {
+      "communication": "Highland Avenue, Itmann, South Dakota",
+      "permanent": "United Arab Emirates"
+    },
+    "marks": {
+      "english": 87,
+      "science": 98,
+      "computers": 59,
+      "hardwar": 68
+    }
+  },
+  {
+    "firstname": "Ollie ",
+    "lastname": "Mcknight",
+    "email": "olliemcknight@eargo.com",
+    "location": [
+      "Amherst Street",
+      "Bynum",
+      "Nebraska"
+    ],
+    "phone": "(977) 550-3611",
+    "address": {
+      "communication": "Union Street, Delco, Michigan",
+      "permanent": "Fiji"
+    },
+    "marks": {
+      "english": 88,
+      "science": 36,
+      "computers": 99,
+      "hardwar": 44
+    }
+  },
+  {
+    "firstname": "Sonya ",
+    "lastname": "Lynch",
+    "email": "sonyalynch@eargo.com",
+    "location": [
+      "Tech Place",
+      "Cartwright",
+      "Delaware"
+    ],
+    "phone": "(916) 597-3995",
+    "address": {
+      "communication": "Montague Terrace, Blue, West Virginia",
+      "permanent": "Saint Kitts and Nevis"
+    },
+    "marks": {
+      "english": 75,
+      "science": 80,
+      "computers": 88,
+      "hardwar": 94
+    }
+  },
+  {
+    "firstname": "Cantu ",
+    "lastname": "Crane",
+    "email": "cantucrane@eargo.com",
+    "location": [
+      "Lynch Street",
+      "Jacksonwald",
+      "Missouri"
+    ],
+    "phone": "(899) 564-2433",
+    "address": {
+      "communication": "Brevoort Place, Welda, Alaska",
+      "permanent": "Puerto Rico"
+    },
+    "marks": {
+      "english": 52,
+      "science": 32,
+      "computers": 78,
+      "hardwar": 42
+    }
+  },
+  {
+    "firstname": "Charmaine ",
+    "lastname": "Gaines",
+    "email": "charmainegaines@eargo.com",
+    "location": [
+      "Strickland Avenue",
+      "Grandview",
+      "Ohio"
+    ],
+    "phone": "(843) 481-3316",
+    "address": {
+      "communication": "Hart Place, Retsof, New Mexico",
+      "permanent": "Equatorial Guinea"
+    },
+    "marks": {
+      "english": 15,
+      "science": 100,
+      "computers": 69,
+      "hardwar": 12
+    }
+  },
+  {
+    "firstname": "Watson ",
+    "lastname": "Steele",
+    "email": "watsonsteele@eargo.com",
+    "location": [
+      "Cypress Avenue",
+      "Jenkinsville",
+      "Nevada"
+    ],
+    "phone": "(956) 598-3235",
+    "address": {
+      "communication": "Claver Place, Remington, Puerto Rico",
+      "permanent": "St. Pierre and Miquelon"
+    },
+    "marks": {
+      "english": 30,
+      "science": 94,
+      "computers": 7,
+      "hardwar": 5
+    }
+  },
+  {
+    "firstname": "Terrell ",
+    "lastname": "Burris",
+    "email": "terrellburris@eargo.com",
+    "location": [
+      "Willoughby Avenue",
+      "Bethpage",
+      "Minnesota"
+    ],
+    "phone": "(989) 419-3946",
+    "address": {
+      "communication": "Prospect Street, Ahwahnee, Hawaii",
+      "permanent": "Ecuador"
+    },
+    "marks": {
+      "english": 8,
+      "science": 24,
+      "computers": 19,
+      "hardwar": 50
+    }
+  },
+  {
+    "firstname": "Carver ",
+    "lastname": "Bowman",
+    "email": "carverbowman@eargo.com",
+    "location": [
+      "Richmond Street",
+      "Finderne",
+      "Federated States Of Micronesia"
+    ],
+    "phone": "(887) 558-3527",
+    "address": {
+      "communication": "Classon Avenue, Rowe, Wisconsin",
+      "permanent": "Heard and McDonald Islands"
+    },
+    "marks": {
+      "english": 4,
+      "science": 47,
+      "computers": 29,
+      "hardwar": 36
+    }
+  },
+  {
+    "firstname": "Mullins ",
+    "lastname": "Chaney",
+    "email": "mullinschaney@eargo.com",
+    "location": [
+      "Herzl Street",
+      "Succasunna",
+      "Mississippi"
+    ],
+    "phone": "(920) 591-2472",
+    "address": {
+      "communication": "Grace Court, Cuylerville, Texas",
+      "permanent": "Reunion"
+    },
+    "marks": {
+      "english": 0,
+      "science": 49,
+      "computers": 2,
+      "hardwar": 36
+    }
+  },
+  {
+    "firstname": "Trudy ",
+    "lastname": "Roach",
+    "email": "trudyroach@eargo.com",
+    "location": [
+      "Harbor Court",
+      "Nicholson",
+      "North Dakota"
+    ],
+    "phone": "(868) 412-3909",
+    "address": {
+      "communication": "Rutledge Street, Waukeenah, Utah",
+      "permanent": "American Samoa"
+    },
+    "marks": {
+      "english": 59,
+      "science": 100,
+      "computers": 14,
+      "hardwar": 2
+    }
+  },
+  {
+    "firstname": "Michele ",
+    "lastname": "Greene",
+    "email": "michelegreene@eargo.com",
+    "location": [
+      "Woodbine Street",
+      "Trinway",
+      "Connecticut"
+    ],
+    "phone": "(942) 413-3916",
+    "address": {
+      "communication": "Norwood Avenue, Topanga, Georgia",
+      "permanent": "Madagascar"
+    },
+    "marks": {
+      "english": 75,
+      "science": 32,
+      "computers": 45,
+      "hardwar": 46
+    }
+  },
+  {
+    "firstname": "Hillary ",
+    "lastname": "Cummings",
+    "email": "hillarycummings@eargo.com",
+    "location": [
+      "Wyckoff Avenue",
+      "Jacumba",
+      "New Hampshire"
+    ],
+    "phone": "(911) 459-2393",
+    "address": {
+      "communication": "Cheever Place, Callaghan, District Of Columbia",
+      "permanent": "Belgium"
+    },
+    "marks": {
+      "english": 46,
+      "science": 52,
+      "computers": 65,
+      "hardwar": 89
+    }
+  },
+  {
+    "firstname": "Hahn ",
+    "lastname": "Hoffman",
+    "email": "hahnhoffman@eargo.com",
+    "location": [
+      "Elton Street",
+      "Spelter",
+      "Washington"
+    ],
+    "phone": "(991) 435-3070",
+    "address": {
+      "communication": "Stockholm Street, Trail, North Carolina",
+      "permanent": "Bangladesh"
+    },
+    "marks": {
+      "english": 99,
+      "science": 91,
+      "computers": 96,
+      "hardwar": 44
+    }
+  },
+  {
+    "firstname": "Knapp ",
+    "lastname": "Hensley",
+    "email": "knapphensley@eargo.com",
+    "location": [
+      "School Lane",
+      "Alamo",
+      "Arkansas"
+    ],
+    "phone": "(954) 446-2435",
+    "address": {
+      "communication": "Metrotech Courtr, Tampico, Palau",
+      "permanent": "Senegal"
+    },
+    "marks": {
+      "english": 26,
+      "science": 98,
+      "computers": 13,
+      "hardwar": 21
+    }
+  },
+  {
+    "firstname": "Beth ",
+    "lastname": "Buck",
+    "email": "bethbuck@eargo.com",
+    "location": [
+      "Louis Place",
+      "Salvo",
+      "Louisiana"
+    ],
+    "phone": "(917) 447-3877",
+    "address": {
+      "communication": "Hooper Street, Accoville, Oklahoma",
+      "permanent": "Libya"
+    },
+    "marks": {
+      "english": 90,
+      "science": 70,
+      "computers": 79,
+      "hardwar": 84
+    }
+  },
+  {
+    "firstname": "Woods ",
+    "lastname": "Payne",
+    "email": "woodspayne@eargo.com",
+    "location": [
+      "Elliott Place",
+      "Berwind",
+      "New Jersey"
+    ],
+    "phone": "(923) 520-2947",
+    "address": {
+      "communication": "Ovington Avenue, Kraemer, Marshall Islands",
+      "permanent": "Taiwan"
+    },
+    "marks": {
+      "english": 63,
+      "science": 62,
+      "computers": 44,
+      "hardwar": 12
+    }
+  },
+  {
+    "firstname": "Randi ",
+    "lastname": "Fletcher",
+    "email": "randifletcher@eargo.com",
+    "location": [
+      "Crystal Street",
+      "Bellfountain",
+      "Virgin Islands"
+    ],
+    "phone": "(884) 560-3275",
+    "address": {
+      "communication": "Albany Avenue, Wyoming, Florida",
+      "permanent": "Myanmar"
+    },
+    "marks": {
+      "english": 62,
+      "science": 96,
+      "computers": 90,
+      "hardwar": 35
+    }
+  },
+  {
+    "firstname": "Tanya ",
+    "lastname": "Higgins",
+    "email": "tanyahiggins@eargo.com",
+    "location": [
+      "Sedgwick Street",
+      "Urbana",
+      "Wyoming"
+    ],
+    "phone": "(954) 511-2612",
+    "address": {
+      "communication": "Division Avenue, Lydia, Oregon",
+      "permanent": "Qatar"
+    },
+    "marks": {
+      "english": 98,
+      "science": 4,
+      "computers": 74,
+      "hardwar": 92
+    }
+  },
+  {
+    "firstname": "Bailey ",
+    "lastname": "Barrett",
+    "email": "baileybarrett@eargo.com",
+    "location": [
+      "Woods Place",
+      "Brady",
+      "Iowa"
+    ],
+    "phone": "(842) 504-2145",
+    "address": {
+      "communication": "Corbin Place, Sunriver, Tennessee",
+      "permanent": "Niue"
+    },
+    "marks": {
+      "english": 81,
+      "science": 31,
+      "computers": 32,
+      "hardwar": 76
+    }
+  },
+  {
+    "firstname": "Witt ",
+    "lastname": "Woods",
+    "email": "wittwoods@eargo.com",
+    "location": [
+      "Hampton Avenue",
+      "Eagletown",
+      "Maryland"
+    ],
+    "phone": "(818) 567-2451",
+    "address": {
+      "communication": "Bank Street, Mathews, Guam",
+      "permanent": "El Salvador"
+    },
+    "marks": {
+      "english": 34,
+      "science": 14,
+      "computers": 80,
+      "hardwar": 8
+    }
+  },
+  {
+    "firstname": "Cherry ",
+    "lastname": "Collier",
+    "email": "cherrycollier@eargo.com",
+    "location": [
+      "Broome Street",
+      "Innsbrook",
+      "Alabama"
+    ],
+    "phone": "(924) 507-2239",
+    "address": {
+      "communication": "Ellery Street, Sheatown, South Carolina",
+      "permanent": "Guinea-Bissau"
+    },
+    "marks": {
+      "english": 52,
+      "science": 86,
+      "computers": 93,
+      "hardwar": 68
+    }
+  },
+  {
+    "firstname": "Small ",
+    "lastname": "Barlow",
+    "email": "smallbarlow@eargo.com",
+    "location": [
+      "Hunterfly Place",
+      "Marienthal",
+      "Rhode Island"
+    ],
+    "phone": "(926) 451-3384",
+    "address": {
+      "communication": "Nelson Street, Tyhee, Kansas",
+      "permanent": "Malawi"
+    },
+    "marks": {
+      "english": 67,
+      "science": 41,
+      "computers": 61,
+      "hardwar": 17
+    }
+  },
+  {
+    "firstname": "Shelley ",
+    "lastname": "Oliver",
+    "email": "shelleyoliver@eargo.com",
+    "location": [
+      "Kent Street",
+      "Orin",
+      "Montana"
+    ],
+    "phone": "(976) 548-2545",
+    "address": {
+      "communication": "Eaton Court, Westboro, Vermont",
+      "permanent": "Thailand"
+    },
+    "marks": {
+      "english": 7,
+      "science": 63,
+      "computers": 92,
+      "hardwar": 3
+    }
+  },
+  {
+    "firstname": "Tami ",
+    "lastname": "Owens",
+    "email": "tamiowens@eargo.com",
+    "location": [
+      "Hampton Place",
+      "Rushford",
+      "Maine"
+    ],
+    "phone": "(990) 475-3692",
+    "address": {
+      "communication": "Newel Street, Independence, Indiana",
+      "permanent": "Sri Lanka"
+    },
+    "marks": {
+      "english": 13,
+      "science": 59,
+      "computers": 83,
+      "hardwar": 38
+    }
+  },
+  {
+    "firstname": "Callie ",
+    "lastname": "Moses",
+    "email": "calliemoses@eargo.com",
+    "location": [
+      "Seigel Street",
+      "Nicut",
+      "Pennsylvania"
+    ],
+    "phone": "(898) 445-3867",
+    "address": {
+      "communication": "Bridge Street, Nipinnawasee, Arizona",
+      "permanent": "Japan"
+    },
+    "marks": {
+      "english": 5,
+      "science": 48,
+      "computers": 88,
+      "hardwar": 29
+    }
+  },
+  {
+    "firstname": "Santos ",
+    "lastname": "Ewing",
+    "email": "santosewing@eargo.com",
+    "location": [
+      "Noel Avenue",
+      "Gibbsville",
+      "Colorado"
+    ],
+    "phone": "(886) 538-2526",
+    "address": {
+      "communication": "Stryker Street, Franklin, American Samoa",
+      "permanent": "Bermuda"
+    },
+    "marks": {
+      "english": 23,
+      "science": 92,
+      "computers": 76,
+      "hardwar": 70
+    }
+  },
+  {
+    "firstname": "Malinda ",
+    "lastname": "Fuller",
+    "email": "malindafuller@eargo.com",
+    "location": [
+      "Turnbull Avenue",
+      "Jamestown",
+      "Illinois"
+    ],
+    "phone": "(916) 416-2152",
+    "address": {
+      "communication": "Dumont Avenue, Fidelis, Northern Mariana Islands",
+      "permanent": "Cocos (Keeling Islands)"
+    },
+    "marks": {
+      "english": 36,
+      "science": 29,
+      "computers": 6,
+      "hardwar": 99
+    }
+  },
+  {
+    "firstname": "Cohen ",
+    "lastname": "Tyler",
+    "email": "cohentyler@eargo.com",
+    "location": [
+      "Fillmore Place",
+      "Mapletown",
+      "New York"
+    ],
+    "phone": "(882) 504-3283",
+    "address": {
+      "communication": "Coventry Road, Hendersonville, California",
+      "permanent": "Central African Republic"
+    },
+    "marks": {
+      "english": 55,
+      "science": 95,
+      "computers": 38,
+      "hardwar": 75
+    }
+  },
+  {
+    "firstname": "Carrie ",
+    "lastname": "Mercado",
+    "email": "carriemercado@eargo.com",
+    "location": [
+      "Sharon Street",
+      "Morgandale",
+      "Virginia"
+    ],
+    "phone": "(835) 500-3167",
+    "address": {
+      "communication": "Whitwell Place, Yogaville, Kentucky",
+      "permanent": "Peru"
+    },
+    "marks": {
+      "english": 36,
+      "science": 34,
+      "computers": 81,
+      "hardwar": 97
+    }
+  },
+  {
+    "firstname": "Landry ",
+    "lastname": "Sloan",
+    "email": "landrysloan@eargo.com",
+    "location": [
+      "Garland Court",
+      "Knowlton",
+      "Idaho"
+    ],
+    "phone": "(822) 535-3352",
+    "address": {
+      "communication": "Rogers Avenue, Wollochet, South Dakota",
+      "permanent": "Colombia"
+    },
+    "marks": {
+      "english": 52,
+      "science": 25,
+      "computers": 98,
+      "hardwar": 66
+    }
+  },
+  {
+    "firstname": "Mckay ",
+    "lastname": "Mcleod",
+    "email": "mckaymcleod@eargo.com",
+    "location": [
+      "Columbia Place",
+      "Bartley",
+      "Nebraska"
+    ],
+    "phone": "(967) 571-2459",
+    "address": {
+      "communication": "Ashland Place, Southview, Michigan",
+      "permanent": "Albania"
+    },
+    "marks": {
+      "english": 57,
+      "science": 7,
+      "computers": 97,
+      "hardwar": 7
+    }
+  },
+  {
+    "firstname": "Lori ",
+    "lastname": "Clayton",
+    "email": "loriclayton@eargo.com",
+    "location": [
+      "Highland Boulevard",
+      "Avoca",
+      "Delaware"
+    ],
+    "phone": "(947) 427-3342",
+    "address": {
+      "communication": "Logan Street, Hobucken, West Virginia",
+      "permanent": "Czech Republic"
+    },
+    "marks": {
+      "english": 24,
+      "science": 81,
+      "computers": 52,
+      "hardwar": 23
+    }
+  },
+  {
+    "firstname": "Bird ",
+    "lastname": "Barton",
+    "email": "birdbarton@eargo.com",
+    "location": [
+      "Terrace Place",
+      "Nanafalia",
+      "Missouri"
+    ],
+    "phone": "(971) 491-2385",
+    "address": {
+      "communication": "Richards Street, Riceville, Alaska",
+      "permanent": "Norfolk Island"
+    },
+    "marks": {
+      "english": 61,
+      "science": 78,
+      "computers": 36,
+      "hardwar": 14
+    }
+  },
+  {
+    "firstname": "Gonzalez ",
+    "lastname": "Preston",
+    "email": "gonzalezpreston@eargo.com",
+    "location": [
+      "Kingsland Avenue",
+      "Coaldale",
+      "Ohio"
+    ],
+    "phone": "(869) 541-3867",
+    "address": {
+      "communication": "Lewis Place, Clinton, New Mexico",
+      "permanent": "Bolivia"
+    },
+    "marks": {
+      "english": 74,
+      "science": 47,
+      "computers": 58,
+      "hardwar": 48
+    }
+  },
+  {
+    "firstname": "Earlene ",
+    "lastname": "Powers",
+    "email": "earlenepowers@eargo.com",
+    "location": [
+      "Christopher Avenue",
+      "Brule",
+      "Nevada"
+    ],
+    "phone": "(885) 419-3369",
+    "address": {
+      "communication": "Campus Road, Cobbtown, Puerto Rico",
+      "permanent": "French Guiana"
+    },
+    "marks": {
+      "english": 9,
+      "science": 22,
+      "computers": 18,
+      "hardwar": 41
+    }
+  },
+  {
+    "firstname": "Dorthy ",
+    "lastname": "Carroll",
+    "email": "dorthycarroll@eargo.com",
+    "location": [
+      "Wortman Avenue",
+      "Yorklyn",
+      "Minnesota"
+    ],
+    "phone": "(928) 541-3661",
+    "address": {
+      "communication": "Dewitt Avenue, Washington, Hawaii",
+      "permanent": "Antigua and Barbuda"
+    },
+    "marks": {
+      "english": 83,
+      "science": 56,
+      "computers": 8,
+      "hardwar": 19
+    }
+  },
+  {
+    "firstname": "Angelita ",
+    "lastname": "Cotton",
+    "email": "angelitacotton@eargo.com",
+    "location": [
+      "Argyle Road",
+      "Trona",
+      "Federated States Of Micronesia"
+    ],
+    "phone": "(866) 422-2392",
+    "address": {
+      "communication": "Neptune Court, Emory, Wisconsin",
+      "permanent": "Turks and Caicos Islands"
+    },
+    "marks": {
+      "english": 16,
+      "science": 31,
+      "computers": 70,
+      "hardwar": 96
+    }
+  },
+  {
+    "firstname": "Lawanda ",
+    "lastname": "Petty",
+    "email": "lawandapetty@eargo.com",
+    "location": [
+      "Lenox Road",
+      "Lorraine",
+      "Mississippi"
+    ],
+    "phone": "(865) 427-2875",
+    "address": {
+      "communication": "Hull Street, Cucumber, Texas",
+      "permanent": "Trinidad and Tobago"
+    },
+    "marks": {
+      "english": 66,
+      "science": 47,
+      "computers": 9,
+      "hardwar": 50
+    }
+  },
+  {
+    "firstname": "Dominguez ",
+    "lastname": "Summers",
+    "email": "dominguezsummers@eargo.com",
+    "location": [
+      "Lewis Avenue",
+      "Crayne",
+      "North Dakota"
+    ],
+    "phone": "(885) 555-3034",
+    "address": {
+      "communication": "Locust Street, Goodville, Utah",
+      "permanent": "Marshall Islands"
+    },
+    "marks": {
+      "english": 89,
+      "science": 95,
+      "computers": 15,
+      "hardwar": 91
+    }
+  },
+  {
+    "firstname": "Joan ",
+    "lastname": "Vance",
+    "email": "joanvance@eargo.com",
+    "location": [
+      "Boulevard Court",
+      "Keller",
+      "Connecticut"
+    ],
+    "phone": "(929) 452-3598",
+    "address": {
+      "communication": "Whitney Avenue, Caln, Georgia",
+      "permanent": "Guinea"
+    },
+    "marks": {
+      "english": 61,
+      "science": 40,
+      "computers": 78,
+      "hardwar": 69
+    }
+  },
+  {
+    "firstname": "Aurora ",
+    "lastname": "Moore",
+    "email": "auroramoore@eargo.com",
+    "location": [
+      "Malta Street",
+      "Hayden",
+      "New Hampshire"
+    ],
+    "phone": "(974) 523-2638",
+    "address": {
+      "communication": "Newkirk Placez, Tecolotito, District Of Columbia",
+      "permanent": "Monaco"
+    },
+    "marks": {
+      "english": 41,
+      "science": 70,
+      "computers": 17,
+      "hardwar": 13
+    }
+  },
+  {
+    "firstname": "Mae ",
+    "lastname": "Lopez",
+    "email": "maelopez@eargo.com",
+    "location": [
+      "Howard Place",
+      "Wheaton",
+      "Washington"
+    ],
+    "phone": "(983) 481-3425",
+    "address": {
+      "communication": "Moore Place, Enlow, North Carolina",
+      "permanent": "Congo"
+    },
+    "marks": {
+      "english": 62,
+      "science": 90,
+      "computers": 74,
+      "hardwar": 39
+    }
+  },
+  {
+    "firstname": "Janna ",
+    "lastname": "Vang",
+    "email": "jannavang@eargo.com",
+    "location": [
+      "Hegeman Avenue",
+      "Crisman",
+      "Arkansas"
+    ],
+    "phone": "(955) 545-3242",
+    "address": {
+      "communication": "Campus Place, Masthope, Palau",
+      "permanent": "Portugal"
+    },
+    "marks": {
+      "english": 58,
+      "science": 13,
+      "computers": 93,
+      "hardwar": 81
+    }
+  },
+  {
+    "firstname": "Barrera ",
+    "lastname": "Stein",
+    "email": "barrerastein@eargo.com",
+    "location": [
+      "Mersereau Court",
+      "Yonah",
+      "Louisiana"
+    ],
+    "phone": "(982) 457-3237",
+    "address": {
+      "communication": "Anchorage Place, Grimsley, Oklahoma",
+      "permanent": "Iran"
+    },
+    "marks": {
+      "english": 46,
+      "science": 4,
+      "computers": 15,
+      "hardwar": 34
+    }
+  },
+  {
+    "firstname": "Ashley ",
+    "lastname": "Hill",
+    "email": "ashleyhill@eargo.com",
+    "location": [
+      "Jefferson Avenue",
+      "Summerfield",
+      "New Jersey"
+    ],
+    "phone": "(846) 500-2062",
+    "address": {
+      "communication": "Charles Place, Virgie, Marshall Islands",
+      "permanent": "Cape Verde"
+    },
+    "marks": {
+      "english": 1,
+      "science": 82,
+      "computers": 30,
+      "hardwar": 13
+    }
+  },
+  {
+    "firstname": "Daisy ",
+    "lastname": "Merrill",
+    "email": "daisymerrill@eargo.com",
+    "location": [
+      "Engert Avenue",
+      "Rose",
+      "Virgin Islands"
+    ],
+    "phone": "(915) 472-2310",
+    "address": {
+      "communication": "Devoe Street, Cloverdale, Florida",
+      "permanent": "Kuwait"
+    },
+    "marks": {
+      "english": 50,
+      "science": 98,
+      "computers": 87,
+      "hardwar": 63
+    }
+  },
+  {
+    "firstname": "Gloria ",
+    "lastname": "Galloway",
+    "email": "gloriagalloway@eargo.com",
+    "location": [
+      "Story Court",
+      "Roeville",
+      "Wyoming"
+    ],
+    "phone": "(919) 511-2622",
+    "address": {
+      "communication": "Dunne Court, Harrodsburg, Oregon",
+      "permanent": "Brunei Darussalam"
+    },
+    "marks": {
+      "english": 11,
+      "science": 12,
+      "computers": 7,
+      "hardwar": 61
+    }
+  },
+  {
+    "firstname": "Pearlie ",
+    "lastname": "Cortez",
+    "email": "pearliecortez@eargo.com",
+    "location": [
+      "Otsego Street",
+      "Rosedale",
+      "Iowa"
+    ],
+    "phone": "(801) 594-2516",
+    "address": {
+      "communication": "Schroeders Avenue, Utting, Tennessee",
+      "permanent": "East Timor"
+    },
+    "marks": {
+      "english": 72,
+      "science": 63,
+      "computers": 27,
+      "hardwar": 45
+    }
+  },
+  {
+    "firstname": "Hattie ",
+    "lastname": "Jackson",
+    "email": "hattiejackson@eargo.com",
+    "location": [
+      "Quentin Street",
+      "Herlong",
+      "Maryland"
+    ],
+    "phone": "(910) 582-2749",
+    "address": {
+      "communication": "Lee Avenue, Chumuckla, Guam",
+      "permanent": "Korea (North)"
+    },
+    "marks": {
+      "english": 98,
+      "science": 28,
+      "computers": 26,
+      "hardwar": 68
+    }
+  },
+  {
+    "firstname": "Tucker ",
+    "lastname": "Chambers",
+    "email": "tuckerchambers@eargo.com",
+    "location": [
+      "Bristol Street",
+      "Munjor",
+      "Alabama"
+    ],
+    "phone": "(902) 410-2426",
+    "address": {
+      "communication": "Battery Avenue, Nettie, South Carolina",
+      "permanent": "Netherlands Antilles"
+    },
+    "marks": {
+      "english": 47,
+      "science": 87,
+      "computers": 9,
+      "hardwar": 15
+    }
+  },
+  {
+    "firstname": "Danielle ",
+    "lastname": "Delaney",
+    "email": "danielledelaney@eargo.com",
+    "location": [
+      "Garden Street",
+      "Harviell",
+      "Rhode Island"
+    ],
+    "phone": "(882) 481-3389",
+    "address": {
+      "communication": "Herkimer Place, Norwood, Kansas",
+      "permanent": "Somalia"
+    },
+    "marks": {
+      "english": 48,
+      "science": 49,
+      "computers": 13,
+      "hardwar": 9
+    }
+  },
+  {
+    "firstname": "Tasha ",
+    "lastname": "Shelton",
+    "email": "tashashelton@eargo.com",
+    "location": [
+      "Gates Avenue",
+      "Fingerville",
+      "Montana"
+    ],
+    "phone": "(970) 473-3475",
+    "address": {
+      "communication": "Williams Court, Belgreen, Vermont",
+      "permanent": "Anguilla"
+    },
+    "marks": {
+      "english": 87,
+      "science": 16,
+      "computers": 50,
+      "hardwar": 46
+    }
+  },
+  {
+    "firstname": "Peggy ",
+    "lastname": "Sanchez",
+    "email": "peggysanchez@eargo.com",
+    "location": [
+      "Church Lane",
+      "Crenshaw",
+      "Maine"
+    ],
+    "phone": "(888) 472-3665",
+    "address": {
+      "communication": "Irvington Place, Elliston, Indiana",
+      "permanent": "Mali"
+    },
+    "marks": {
+      "english": 57,
+      "science": 86,
+      "computers": 10,
+      "hardwar": 64
+    }
+  },
+  {
+    "firstname": "Roberta ",
+    "lastname": "Buckner",
+    "email": "robertabuckner@eargo.com",
+    "location": [
+      "Eastern Parkway",
+      "Adelino",
+      "Pennsylvania"
+    ],
+    "phone": "(858) 479-3715",
+    "address": {
+      "communication": "Buffalo Avenue, Lewis, Arizona",
+      "permanent": "Gambia"
+    },
+    "marks": {
+      "english": 43,
+      "science": 8,
+      "computers": 96,
+      "hardwar": 40
+    }
+  },
+  {
+    "firstname": "Tiffany ",
+    "lastname": "Turner",
+    "email": "tiffanyturner@eargo.com",
+    "location": [
+      "Grove Place",
+      "Cedarville",
+      "Colorado"
+    ],
+    "phone": "(931) 595-2934",
+    "address": {
+      "communication": "Gardner Avenue, Coldiron, American Samoa",
+      "permanent": "Austria"
+    },
+    "marks": {
+      "english": 5,
+      "science": 99,
+      "computers": 38,
+      "hardwar": 66
+    }
+  },
+  {
+    "firstname": "Rachelle ",
+    "lastname": "Calhoun",
+    "email": "rachellecalhoun@eargo.com",
+    "location": [
+      "Cypress Court",
+      "Bowden",
+      "Illinois"
+    ],
+    "phone": "(835) 531-2676",
+    "address": {
+      "communication": "Hill Street, Wilmington, Northern Mariana Islands",
+      "permanent": "Benin"
+    },
+    "marks": {
+      "english": 84,
+      "science": 56,
+      "computers": 15,
+      "hardwar": 15
+    }
+  },
+  {
+    "firstname": "Moore ",
+    "lastname": "Shepard",
+    "email": "mooreshepard@eargo.com",
+    "location": [
+      "Hendrickson Place",
+      "Kiskimere",
+      "New York"
+    ],
+    "phone": "(931) 467-3053",
+    "address": {
+      "communication": "Navy Walk, Coloma, California",
+      "permanent": "Uganda"
+    },
+    "marks": {
+      "english": 95,
+      "science": 45,
+      "computers": 93,
+      "hardwar": 60
+    }
+  },
+  {
+    "firstname": "Leola ",
+    "lastname": "Torres",
+    "email": "leolatorres@eargo.com",
+    "location": [
+      "Garfield Place",
+      "Farmers",
+      "Virginia"
+    ],
+    "phone": "(977) 593-3869",
+    "address": {
+      "communication": "Boynton Place, Lynn, Kentucky",
+      "permanent": "Bahamas"
+    },
+    "marks": {
+      "english": 6,
+      "science": 29,
+      "computers": 48,
+      "hardwar": 60
+    }
+  },
+  {
+    "firstname": "Nelda ",
+    "lastname": "Willis",
+    "email": "neldawillis@eargo.com",
+    "location": [
+      "Strong Place",
+      "Westmoreland",
+      "Idaho"
+    ],
+    "phone": "(974) 575-2517",
+    "address": {
+      "communication": "Rutherford Place, Baker, South Dakota",
+      "permanent": "Wallis and Futuna Islands"
+    },
+    "marks": {
+      "english": 46,
+      "science": 30,
+      "computers": 90,
+      "hardwar": 23
+    }
+  },
+  {
+    "firstname": "Ramirez ",
+    "lastname": "Branch",
+    "email": "ramirezbranch@eargo.com",
+    "location": [
+      "Prescott Place",
+      "Lemoyne",
+      "Nebraska"
+    ],
+    "phone": "(824) 482-3588",
+    "address": {
+      "communication": "Ryder Avenue, Kapowsin, Michigan",
+      "permanent": "Netherlands"
+    },
+    "marks": {
+      "english": 49,
+      "science": 6,
+      "computers": 34,
+      "hardwar": 67
+    }
+  },
+  {
+    "firstname": "Pruitt ",
+    "lastname": "Foster",
+    "email": "pruittfoster@eargo.com",
+    "location": [
+      "Glen Street",
+      "Holtville",
+      "Delaware"
+    ],
+    "phone": "(865) 545-2484",
+    "address": {
+      "communication": "Vandam Street, Foscoe, West Virginia",
+      "permanent": "Guam"
+    },
+    "marks": {
+      "english": 89,
+      "science": 93,
+      "computers": 59,
+      "hardwar": 63
+    }
+  },
+  {
+    "firstname": "Nicholson ",
+    "lastname": "Armstrong",
+    "email": "nicholsonarmstrong@eargo.com",
+    "location": [
+      "Eckford Street",
+      "Kieler",
+      "Missouri"
+    ],
+    "phone": "(928) 591-3733",
+    "address": {
+      "communication": "Hewes Street, Malott, Alaska",
+      "permanent": "Niger"
+    },
+    "marks": {
+      "english": 75,
+      "science": 93,
+      "computers": 79,
+      "hardwar": 35
+    }
+  },
+  {
+    "firstname": "Marguerite ",
+    "lastname": "Puckett",
+    "email": "margueritepuckett@eargo.com",
+    "location": [
+      "Poplar Avenue",
+      "Watrous",
+      "Ohio"
+    ],
+    "phone": "(998) 460-2851",
+    "address": {
+      "communication": "Tillary Street, Weedville, New Mexico",
+      "permanent": "New Zealand"
+    },
+    "marks": {
+      "english": 78,
+      "science": 93,
+      "computers": 72,
+      "hardwar": 9
+    }
+  },
+  {
+    "firstname": "Rosa ",
+    "lastname": "Moss",
+    "email": "rosamoss@eargo.com",
+    "location": [
+      "Holly Street",
+      "Enetai",
+      "Nevada"
+    ],
+    "phone": "(866) 484-2192",
+    "address": {
+      "communication": "Thatford Avenue, Gasquet, Puerto Rico",
+      "permanent": "Indonesia"
+    },
+    "marks": {
+      "english": 13,
+      "science": 50,
+      "computers": 34,
+      "hardwar": 52
+    }
+  },
+  {
+    "firstname": "Angel ",
+    "lastname": "Charles",
+    "email": "angelcharles@eargo.com",
+    "location": [
+      "Fair Street",
+      "Ribera",
+      "Minnesota"
+    ],
+    "phone": "(950) 511-2111",
+    "address": {
+      "communication": "Riverdale Avenue, Dellview, Hawaii",
+      "permanent": "Malta"
+    },
+    "marks": {
+      "english": 66,
+      "science": 44,
+      "computers": 27,
+      "hardwar": 7
+    }
+  },
+  {
+    "firstname": "Brewer ",
+    "lastname": "Perez",
+    "email": "brewerperez@eargo.com",
+    "location": [
+      "Kathleen Court",
+      "Sunwest",
+      "Federated States Of Micronesia"
+    ],
+    "phone": "(966) 552-3551",
+    "address": {
+      "communication": "Everett Avenue, Groveville, Wisconsin",
+      "permanent": "Aruba"
+    },
+    "marks": {
+      "english": 25,
+      "science": 50,
+      "computers": 63,
+      "hardwar": 72
+    }
+  },
+  {
+    "firstname": "Katina ",
+    "lastname": "Walter",
+    "email": "katinawalter@eargo.com",
+    "location": [
+      "Devon Avenue",
+      "Ventress",
+      "Mississippi"
+    ],
+    "phone": "(977) 450-2534",
+    "address": {
+      "communication": "Harkness Avenue, Cannondale, Texas",
+      "permanent": "Finland"
+    },
+    "marks": {
+      "english": 78,
+      "science": 16,
+      "computers": 25,
+      "hardwar": 71
+    }
+  },
+  {
+    "firstname": "Tyler ",
+    "lastname": "Garrett",
+    "email": "tylergarrett@eargo.com",
+    "location": [
+      "Halleck Street",
+      "Coral",
+      "North Dakota"
+    ],
+    "phone": "(978) 486-2613",
+    "address": {
+      "communication": "Independence Avenue, Wheatfields, Utah",
+      "permanent": "Turkey"
+    },
+    "marks": {
+      "english": 7,
+      "science": 69,
+      "computers": 22,
+      "hardwar": 86
+    }
+  },
+  {
+    "firstname": "Delacruz ",
+    "lastname": "Odonnell",
+    "email": "delacruzodonnell@eargo.com",
+    "location": [
+      "Durland Place",
+      "Gloucester",
+      "Connecticut"
+    ],
+    "phone": "(918) 532-3942",
+    "address": {
+      "communication": "Apollo Street, Canoochee, Georgia",
+      "permanent": "Suriname"
+    },
+    "marks": {
+      "english": 86,
+      "science": 0,
+      "computers": 53,
+      "hardwar": 39
+    }
+  },
+  {
+    "firstname": "Hamilton ",
+    "lastname": "Adams",
+    "email": "hamiltonadams@eargo.com",
+    "location": [
+      "Clifton Place",
+      "Worcester",
+      "New Hampshire"
+    ],
+    "phone": "(944) 498-2938",
+    "address": {
+      "communication": "Bills Place, Waverly, District Of Columbia",
+      "permanent": "Belarus"
+    },
+    "marks": {
+      "english": 13,
+      "science": 46,
+      "computers": 17,
+      "hardwar": 19
+    }
+  },
+  {
+    "firstname": "Soto ",
+    "lastname": "Russo",
+    "email": "sotorusso@eargo.com",
+    "location": [
+      "Clymer Street",
+      "Thermal",
+      "Washington"
+    ],
+    "phone": "(871) 503-2555",
+    "address": {
+      "communication": "Liberty Avenue, Taycheedah, North Carolina",
+      "permanent": "Cote D'Ivoire (Ivory Coast)"
+    },
+    "marks": {
+      "english": 38,
+      "science": 26,
+      "computers": 33,
+      "hardwar": 30
+    }
+  },
+  {
+    "firstname": "Mcintosh ",
+    "lastname": "Mcmahon",
+    "email": "mcintoshmcmahon@eargo.com",
+    "location": [
+      "Etna Street",
+      "Dixie",
+      "Arkansas"
+    ],
+    "phone": "(992) 400-3377",
+    "address": {
+      "communication": "Fountain Avenue, Gila, Palau",
+      "permanent": "Belize"
+    },
+    "marks": {
+      "english": 32,
+      "science": 90,
+      "computers": 25,
+      "hardwar": 99
+    }
+  },
+  {
+    "firstname": "Gross ",
+    "lastname": "Sosa",
+    "email": "grosssosa@eargo.com",
+    "location": [
+      "Saratoga Avenue",
+      "Dalton",
+      "Louisiana"
+    ],
+    "phone": "(815) 499-2288",
+    "address": {
+      "communication": "Broadway , Fairhaven, Oklahoma",
+      "permanent": "US Minor Outlying Islands"
+    },
+    "marks": {
+      "english": 41,
+      "science": 73,
+      "computers": 50,
+      "hardwar": 19
+    }
+  },
+  {
+    "firstname": "Baird ",
+    "lastname": "Knight",
+    "email": "bairdknight@eargo.com",
+    "location": [
+      "Bragg Street",
+      "Ellerslie",
+      "New Jersey"
+    ],
+    "phone": "(989) 438-3614",
+    "address": {
+      "communication": "Gunnison Court, Elizaville, Marshall Islands",
+      "permanent": "Burundi"
+    },
+    "marks": {
+      "english": 35,
+      "science": 16,
+      "computers": 91,
+      "hardwar": 47
+    }
+  },
+  {
+    "firstname": "Carroll ",
+    "lastname": "Blake",
+    "email": "carrollblake@eargo.com",
+    "location": [
+      "Leonard Street",
+      "Crawfordsville",
+      "Virgin Islands"
+    ],
+    "phone": "(897) 507-3959",
+    "address": {
+      "communication": "Dahill Road, Rodanthe, Florida",
+      "permanent": "Northern Mariana Islands"
+    },
+    "marks": {
+      "english": 28,
+      "science": 79,
+      "computers": 77,
+      "hardwar": 66
+    }
+  },
+  {
+    "firstname": "Bowen ",
+    "lastname": "Vaughn",
+    "email": "bowenvaughn@eargo.com",
+    "location": [
+      "Tehama Street",
+      "Convent",
+      "Wyoming"
+    ],
+    "phone": "(862) 413-2536",
+    "address": {
+      "communication": "Mayfair Drive, Greensburg, Oregon",
+      "permanent": "Oman"
+    },
+    "marks": {
+      "english": 51,
+      "science": 6,
+      "computers": 72,
+      "hardwar": 79
+    }
+  },
+  {
+    "firstname": "Frost ",
+    "lastname": "Harper",
+    "email": "frostharper@eargo.com",
+    "location": [
+      "Fleet Street",
+      "Stonybrook",
+      "Iowa"
+    ],
+    "phone": "(808) 517-3407",
+    "address": {
+      "communication": "Cove Lane, Guthrie, Tennessee",
+      "permanent": "Lithuania"
+    },
+    "marks": {
+      "english": 39,
+      "science": 100,
+      "computers": 5,
+      "hardwar": 62
+    }
+  },
+  {
+    "firstname": "Therese ",
+    "lastname": "Woodard",
+    "email": "theresewoodard@eargo.com",
+    "location": [
+      "Homecrest Court",
+      "Stockwell",
+      "Maryland"
+    ],
+    "phone": "(932) 454-3929",
+    "address": {
+      "communication": "Ocean Court, Brambleton, Guam",
+      "permanent": "Turkmenistan"
+    },
+    "marks": {
+      "english": 22,
+      "science": 11,
+      "computers": 7,
+      "hardwar": 92
+    }
+  },
+  {
+    "firstname": "Angeline ",
+    "lastname": "Irwin",
+    "email": "angelineirwin@eargo.com",
+    "location": [
+      "Lincoln Terrace",
+      "Vicksburg",
+      "Alabama"
+    ],
+    "phone": "(988) 550-3951",
+    "address": {
+      "communication": "Brooklyn Road, Whipholt, South Carolina",
+      "permanent": "Pitcairn"
+    },
+    "marks": {
+      "english": 82,
+      "science": 43,
+      "computers": 89,
+      "hardwar": 77
+    }
+  },
+  {
+    "firstname": "Todd ",
+    "lastname": "Holt",
+    "email": "toddholt@eargo.com",
+    "location": [
+      "Nolans Lane",
+      "Lindcove",
+      "Rhode Island"
+    ],
+    "phone": "(990) 539-2323",
+    "address": {
+      "communication": "Stockton Street, Bladensburg, Kansas",
+      "permanent": "Bouvet Island"
+    },
+    "marks": {
+      "english": 24,
+      "science": 5,
+      "computers": 83,
+      "hardwar": 7
+    }
+  },
+  {
+    "firstname": "Amanda ",
+    "lastname": "Mckinney",
+    "email": "amandamckinney@eargo.com",
+    "location": [
+      "Bouck Court",
+      "Springdale",
+      "Montana"
+    ],
+    "phone": "(860) 525-2781",
+    "address": {
+      "communication": "Flatbush Avenue, Brownlee, Vermont",
+      "permanent": "Cameroon"
+    },
+    "marks": {
+      "english": 74,
+      "science": 70,
+      "computers": 15,
+      "hardwar": 28
+    }
+  },
+  {
+    "firstname": "Buchanan ",
+    "lastname": "Gentry",
+    "email": "buchanangentry@eargo.com",
+    "location": [
+      "Hubbard Place",
+      "Woodruff",
+      "Maine"
+    ],
+    "phone": "(840) 424-3040",
+    "address": {
+      "communication": "Varet Street, Loomis, Indiana",
+      "permanent": "Switzerland"
+    },
+    "marks": {
+      "english": 67,
+      "science": 98,
+      "computers": 99,
+      "hardwar": 49
+    }
+  },
+  {
+    "firstname": "Klein ",
+    "lastname": "Beasley",
+    "email": "kleinbeasley@eargo.com",
+    "location": [
+      "Hastings Street",
+      "Beyerville",
+      "Pennsylvania"
+    ],
+    "phone": "(927) 590-3080",
+    "address": {
+      "communication": "Village Road, Calpine, Arizona",
+      "permanent": "Dominican Republic"
+    },
+    "marks": {
+      "english": 23,
+      "science": 78,
+      "computers": 4,
+      "hardwar": 40
+    }
+  },
+  {
+    "firstname": "Smith ",
+    "lastname": "Dominguez",
+    "email": "smithdominguez@eargo.com",
+    "location": [
+      "Forest Place",
+      "Carbonville",
+      "Colorado"
+    ],
+    "phone": "(959) 476-2832",
+    "address": {
+      "communication": "Anthony Street, Fresno, American Samoa",
+      "permanent": "Zimbabwe"
+    },
+    "marks": {
+      "english": 15,
+      "science": 76,
+      "computers": 12,
+      "hardwar": 93
+    }
+  },
+  {
+    "firstname": "Mayer ",
+    "lastname": "Olson",
+    "email": "mayerolson@eargo.com",
+    "location": [
+      "Shale Street",
+      "Rockbridge",
+      "Illinois"
+    ],
+    "phone": "(896) 585-3228",
+    "address": {
+      "communication": "Powers Street, Aguila, Northern Mariana Islands",
+      "permanent": "Bulgaria"
+    },
+    "marks": {
+      "english": 4,
+      "science": 22,
+      "computers": 13,
+      "hardwar": 9
+    }
+  },
+  {
+    "firstname": "Cooke ",
+    "lastname": "Jenkins",
+    "email": "cookejenkins@eargo.com",
+    "location": [
+      "Crosby Avenue",
+      "Umapine",
+      "New York"
+    ],
+    "phone": "(890) 480-3535",
+    "address": {
+      "communication": "Cooper Street, Cade, California",
+      "permanent": "Nauru"
+    },
+    "marks": {
+      "english": 32,
+      "science": 70,
+      "computers": 30,
+      "hardwar": 74
+    }
+  },
+  {
+    "firstname": "Sanders ",
+    "lastname": "Freeman",
+    "email": "sandersfreeman@eargo.com",
+    "location": [
+      "Main Street",
+      "Harrison",
+      "Virginia"
+    ],
+    "phone": "(983) 470-3089",
+    "address": {
+      "communication": "College Place, Zeba, Kentucky",
+      "permanent": "Rwanda"
+    },
+    "marks": {
+      "english": 95,
+      "science": 49,
+      "computers": 64,
+      "hardwar": 100
+    }
+  },
+  {
+    "firstname": "Corrine ",
+    "lastname": "Figueroa",
+    "email": "corrinefigueroa@eargo.com",
+    "location": [
+      "Batchelder Street",
+      "Leroy",
+      "Idaho"
+    ],
+    "phone": "(997) 583-3202",
+    "address": {
+      "communication": "Seton Place, Kaka, South Dakota",
+      "permanent": "Liechtenstein"
+    },
+    "marks": {
+      "english": 48,
+      "science": 69,
+      "computers": 44,
+      "hardwar": 3
+    }
+  },
+  {
+    "firstname": "Madge ",
+    "lastname": "Hoover",
+    "email": "madgehoover@eargo.com",
+    "location": [
+      "Vermont Street",
+      "Witmer",
+      "Nebraska"
+    ],
+    "phone": "(935) 460-2512",
+    "address": {
+      "communication": "Grattan Street, Bergoo, Michigan",
+      "permanent": "Hungary"
+    },
+    "marks": {
+      "english": 91,
+      "science": 92,
+      "computers": 69,
+      "hardwar": 2
+    }
+  },
+  {
+    "firstname": "Bradford ",
+    "lastname": "Macias",
+    "email": "bradfordmacias@eargo.com",
+    "location": [
+      "Gerry Street",
+      "Allendale",
+      "Delaware"
+    ],
+    "phone": "(927) 405-3314",
+    "address": {
+      "communication": "Croton Loop, Murillo, West Virginia",
+      "permanent": "Seychelles"
+    },
+    "marks": {
+      "english": 53,
+      "science": 95,
+      "computers": 11,
+      "hardwar": 52
+    }
+  },
+  {
+    "firstname": "Brandy ",
+    "lastname": "Randolph",
+    "email": "brandyrandolph@eargo.com",
+    "location": [
+      "Post Court",
+      "Vallonia",
+      "Missouri"
+    ],
+    "phone": "(802) 487-2827",
+    "address": {
+      "communication": "Losee Terrace, Waterview, Alaska",
+      "permanent": "Andorra"
+    },
+    "marks": {
+      "english": 43,
+      "science": 58,
+      "computers": 47,
+      "hardwar": 33
+    }
+  },
+  {
+    "firstname": "Garrison ",
+    "lastname": "Morrison",
+    "email": "garrisonmorrison@eargo.com",
+    "location": [
+      "Porter Avenue",
+      "Avalon",
+      "Ohio"
+    ],
+    "phone": "(939) 411-2702",
+    "address": {
+      "communication": "Sumpter Street, Whitewater, New Mexico",
+      "permanent": "Uzbekistan"
+    },
+    "marks": {
+      "english": 76,
+      "science": 91,
+      "computers": 55,
+      "hardwar": 10
+    }
+  },
+  {
+    "firstname": "Wiggins ",
+    "lastname": "Robinson",
+    "email": "wigginsrobinson@eargo.com",
+    "location": [
+      "Euclid Avenue",
+      "Southmont",
+      "Nevada"
+    ],
+    "phone": "(946) 558-3711",
+    "address": {
+      "communication": "Bath Avenue, Harold, Puerto Rico",
+      "permanent": "Estonia"
+    },
+    "marks": {
+      "english": 26,
+      "science": 31,
+      "computers": 97,
+      "hardwar": 2
+    }
+  },
+  {
+    "firstname": "Emily ",
+    "lastname": "Hamilton",
+    "email": "emilyhamilton@eargo.com",
+    "location": [
+      "Dearborn Court",
+      "Gerber",
+      "Minnesota"
+    ],
+    "phone": "(931) 523-2825",
+    "address": {
+      "communication": "Nautilus Avenue, Glidden, Hawaii",
+      "permanent": "Cambodia"
+    },
+    "marks": {
+      "english": 80,
+      "science": 87,
+      "computers": 42,
+      "hardwar": 39
+    }
+  },
+  {
+    "firstname": "Burgess ",
+    "lastname": "Conley",
+    "email": "burgessconley@eargo.com",
+    "location": [
+      "Java Street",
+      "Gambrills",
+      "Federated States Of Micronesia"
+    ],
+    "phone": "(947) 457-2273",
+    "address": {
+      "communication": "Kenmore Court, Movico, Wisconsin",
+      "permanent": "Australia"
+    },
+    "marks": {
+      "english": 9,
+      "science": 8,
+      "computers": 20,
+      "hardwar": 45
+    }
+  },
+  {
+    "firstname": "Jewell ",
+    "lastname": "Haley",
+    "email": "jewellhaley@eargo.com",
+    "location": [
+      "Moffat Street",
+      "Roland",
+      "Mississippi"
+    ],
+    "phone": "(814) 476-2343",
+    "address": {
+      "communication": "Homecrest Avenue, Saticoy, Texas",
+      "permanent": "Chile"
+    },
+    "marks": {
+      "english": 56,
+      "science": 22,
+      "computers": 27,
+      "hardwar": 60
+    }
+  },
+  {
+    "firstname": "Foley ",
+    "lastname": "Osborne",
+    "email": "foleyosborne@eargo.com",
+    "location": [
+      "Conway Street",
+      "Churchill",
+      "North Dakota"
+    ],
+    "phone": "(991) 451-3357",
+    "address": {
+      "communication": "Bayard Street, Fowlerville, Utah",
+      "permanent": "Mexico"
+    },
+    "marks": {
+      "english": 56,
+      "science": 3,
+      "computers": 85,
+      "hardwar": 83
+    }
+  },
+  {
+    "firstname": "Velez ",
+    "lastname": "Goodwin",
+    "email": "velezgoodwin@eargo.com",
+    "location": [
+      "Ridgewood Place",
+      "Rivereno",
+      "Connecticut"
+    ],
+    "phone": "(871) 560-3318",
+    "address": {
+      "communication": "Louisa Street, Hasty, Georgia",
+      "permanent": "Mayotte"
+    },
+    "marks": {
+      "english": 78,
+      "science": 84,
+      "computers": 27,
+      "hardwar": 77
+    }
+  },
+  {
+    "firstname": "Reid ",
+    "lastname": "Combs",
+    "email": "reidcombs@eargo.com",
+    "location": [
+      "Bowne Street",
+      "Blanco",
+      "New Hampshire"
+    ],
+    "phone": "(870) 465-2850",
+    "address": {
+      "communication": "Coleman Street, Brandywine, District Of Columbia",
+      "permanent": "Morocco"
+    },
+    "marks": {
+      "english": 44,
+      "science": 18,
+      "computers": 22,
+      "hardwar": 20
+    }
+  },
+  {
+    "firstname": "Frazier ",
+    "lastname": "Lowe",
+    "email": "frazierlowe@eargo.com",
+    "location": [
+      "Overbaugh Place",
+      "Lupton",
+      "Washington"
+    ],
+    "phone": "(859) 455-2920",
+    "address": {
+      "communication": "Granite Street, Wiscon, North Carolina",
+      "permanent": "Liberia"
+    },
+    "marks": {
+      "english": 28,
+      "science": 76,
+      "computers": 44,
+      "hardwar": 61
+    }
+  },
+  {
+    "firstname": "Deleon ",
+    "lastname": "Sweeney",
+    "email": "deleonsweeney@eargo.com",
+    "location": [
+      "Taaffe Place",
+      "Blackgum",
+      "Arkansas"
+    ],
+    "phone": "(904) 423-2777",
+    "address": {
+      "communication": "Montana Place, Collins, Palau",
+      "permanent": "Sweden"
+    },
+    "marks": {
+      "english": 57,
+      "science": 65,
+      "computers": 20,
+      "hardwar": 79
+    }
+  },
+  {
+    "firstname": "Candice ",
+    "lastname": "Joyner",
+    "email": "candicejoyner@eargo.com",
+    "location": [
+      "Seeley Street",
+      "Freeburn",
+      "Louisiana"
+    ],
+    "phone": "(820) 449-2312",
+    "address": {
+      "communication": "Amersfort Place, Alfarata, Oklahoma",
+      "permanent": "Norway"
+    },
+    "marks": {
+      "english": 37,
+      "science": 5,
+      "computers": 85,
+      "hardwar": 28
+    }
+  },
+  {
+    "firstname": "Elizabeth ",
+    "lastname": "Love",
+    "email": "elizabethlove@eargo.com",
+    "location": [
+      "Lake Place",
+      "Drummond",
+      "New Jersey"
+    ],
+    "phone": "(934) 476-3127",
+    "address": {
+      "communication": "Folsom Place, Gilmore, Marshall Islands",
+      "permanent": "Chad"
+    },
+    "marks": {
+      "english": 58,
+      "science": 48,
+      "computers": 5,
+      "hardwar": 83
+    }
+  },
+  {
+    "firstname": "Cecilia ",
+    "lastname": "Hinton",
+    "email": "ceciliahinton@eargo.com",
+    "location": [
+      "Dinsmore Place",
+      "Russellville",
+      "Virgin Islands"
+    ],
+    "phone": "(973) 551-3814",
+    "address": {
+      "communication": "Powell Street, Tolu, Florida",
+      "permanent": "Sierra Leone"
+    },
+    "marks": {
+      "english": 13,
+      "science": 24,
+      "computers": 4,
+      "hardwar": 46
+    }
+  },
+  {
+    "firstname": "Newton ",
+    "lastname": "Franklin",
+    "email": "newtonfranklin@eargo.com",
+    "location": [
+      "Surf Avenue",
+      "Ironton",
+      "Wyoming"
+    ],
+    "phone": "(886) 523-3965",
+    "address": {
+      "communication": "Delevan Street, Biddle, Oregon",
+      "permanent": "Yugoslavia"
+    },
+    "marks": {
+      "english": 38,
+      "science": 41,
+      "computers": 50,
+      "hardwar": 69
+    }
+  },
+  {
+    "firstname": "Brittney ",
+    "lastname": "Dunn",
+    "email": "brittneydunn@eargo.com",
+    "location": [
+      "Thornton Street",
+      "Logan",
+      "Iowa"
+    ],
+    "phone": "(919) 430-2573",
+    "address": {
+      "communication": "Brighton Avenue, Edgewater, Tennessee",
+      "permanent": "Swaziland"
+    },
+    "marks": {
+      "english": 26,
+      "science": 32,
+      "computers": 81,
+      "hardwar": 50
+    }
+  },
+  {
+    "firstname": "Brigitte ",
+    "lastname": "Franco",
+    "email": "brigittefranco@eargo.com",
+    "location": [
+      "Dakota Place",
+      "Winesburg",
+      "Maryland"
+    ],
+    "phone": "(913) 453-3812",
+    "address": {
+      "communication": "Jaffray Street, Ripley, Guam",
+      "permanent": "Israel"
+    },
+    "marks": {
+      "english": 16,
+      "science": 26,
+      "computers": 5,
+      "hardwar": 64
+    }
+  },
+  {
+    "firstname": "Hubbard ",
+    "lastname": "Stevens",
+    "email": "hubbardstevens@eargo.com",
+    "location": [
+      "Polar Street",
+      "Shrewsbury",
+      "Alabama"
+    ],
+    "phone": "(866) 571-2704",
+    "address": {
+      "communication": "Osborn Street, Dana, South Carolina",
+      "permanent": "Argentina"
+    },
+    "marks": {
+      "english": 50,
+      "science": 63,
+      "computers": 65,
+      "hardwar": 45
+    }
+  },
+  {
+    "firstname": "Pena ",
+    "lastname": "Wilson",
+    "email": "penawilson@eargo.com",
+    "location": [
+      "Newport Street",
+      "Bison",
+      "Rhode Island"
+    ],
+    "phone": "(937) 519-2768",
+    "address": {
+      "communication": "Gelston Avenue, Shepardsville, Kansas",
+      "permanent": "Malaysia"
+    },
+    "marks": {
+      "english": 73,
+      "science": 2,
+      "computers": 12,
+      "hardwar": 41
+    }
+  },
+  {
+    "firstname": "Lucia ",
+    "lastname": "Calderon",
+    "email": "luciacalderon@eargo.com",
+    "location": [
+      "Olive Street",
+      "Hayes",
+      "Montana"
+    ],
+    "phone": "(850) 532-3923",
+    "address": {
+      "communication": "Brooklyn Avenue, Belmont, Vermont",
+      "permanent": "Guyana"
+    },
+    "marks": {
+      "english": 90,
+      "science": 51,
+      "computers": 74,
+      "hardwar": 20
+    }
+  },
+  {
+    "firstname": "Irma ",
+    "lastname": "Cooper",
+    "email": "irmacooper@eargo.com",
+    "location": [
+      "Grant Avenue",
+      "Hessville",
+      "Maine"
+    ],
+    "phone": "(897) 582-2255",
+    "address": {
+      "communication": "Indiana Place, Elwood, Indiana",
+      "permanent": "Bhutan"
+    },
+    "marks": {
+      "english": 93,
+      "science": 84,
+      "computers": 71,
+      "hardwar": 63
+    }
+  },
+  {
+    "firstname": "Mattie ",
+    "lastname": "Bryant",
+    "email": "mattiebryant@eargo.com",
+    "location": [
+      "Colin Place",
+      "Brookfield",
+      "Pennsylvania"
+    ],
+    "phone": "(982) 485-3243",
+    "address": {
+      "communication": "Middleton Street, Vandiver, Arizona",
+      "permanent": "Lebanon"
+    },
+    "marks": {
+      "english": 40,
+      "science": 44,
+      "computers": 2,
+      "hardwar": 27
+    }
+  },
+  {
+    "firstname": "Nita ",
+    "lastname": "Mccarty",
+    "email": "nitamccarty@eargo.com",
+    "location": [
+      "Wythe Avenue",
+      "Sims",
+      "Colorado"
+    ],
+    "phone": "(859) 469-3531",
+    "address": {
+      "communication": "Merit Court, Berlin, American Samoa",
+      "permanent": "Honduras"
+    },
+    "marks": {
+      "english": 0,
+      "science": 81,
+      "computers": 7,
+      "hardwar": 79
+    }
+  },
+  {
+    "firstname": "Josie ",
+    "lastname": "Ortega",
+    "email": "josieortega@eargo.com",
+    "location": [
+      "Waldane Court",
+      "Chelsea",
+      "Illinois"
+    ],
+    "phone": "(971) 508-3918",
+    "address": {
+      "communication": "Miami Court, Canby, Northern Mariana Islands",
+      "permanent": "Jamaica"
+    },
+    "marks": {
+      "english": 30,
+      "science": 53,
+      "computers": 60,
+      "hardwar": 63
+    }
+  }
+]
